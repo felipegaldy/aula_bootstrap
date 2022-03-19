@@ -1,0 +1,37 @@
+
+
+.navbar {
+background-color: #222  ;
+}
+.nav-link {
+    color: ghostwhite;
+}
+.navbar-brand {
+    margin-left: 15px;
+}
+#quemsomos #servicos {
+    background-color: aliceblue;
+    color: black;
+}
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.parceiros {
+    background-color: black;
+    color: ghostwhite;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#imgparc, #imgserv {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 100%;
+}
+.bg-footer {
+    background-color: #222;
+    color: whitesmoke;
+}
+h4 {
+    padding-top: 20px;
+}
